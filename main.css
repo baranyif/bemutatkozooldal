@@ -10,9 +10,8 @@
 }
 
 .profile-card {
-  width:330px;
+  width: 330px;
   max-width: calc(100vw - 10px);
-  
 }
 body {
   display: flex;
@@ -66,19 +65,17 @@ li {
   
 }
 body {
-  background: url('file:///C:/Users/Bar%C3%A1nyi%20Ferenc/Desktop/Munka/Programoz%C3%A1s/namecard/assets/zen.jpg') no-repeat center center fixed;
-    
+  background: url('https://i.imgur.com/Sqvdt3o.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 .profile-card {
-   background: url('file:///C:/Users/Bar%C3%A1nyi%20Ferenc/Desktop/Munka/Programoz%C3%A1s/namecard/assets/dragon.jfif')no-repeat center center fixed;
+   background: url('https://i.imgur.com/xWSvlTk.jpg') no-repeat center center fixed;
   background-size: contain;
   opacity:0.8;
 
   border-radius: 4px;
   box-shadow: hsla(0, 0%, 0%, .8) 10px 10px 80px;
 }
-
 
 h1{
   text-transform:uppercase;
